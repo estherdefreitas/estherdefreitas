@@ -18,12 +18,12 @@ https://github.com/andreasbm/readme/blob/master/assets/line.png)](estherdefreita
     </td>
     <td>
       <p align="center">
-          <img align="left" height="250em" alt="Girl coding day and night" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhiNml4M240dG85cXdkOHM4aXVodGJuZDNubjhyOTU0Zm9wMmNvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0MktH0wmO0U4XVUAx/giphy.gif" />
+          <img align="left" height="240em" alt="Girl coding day and night" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhiNml4M240dG85cXdkOHM4aXVodGJuZDNubjhyOTU0Zm9wMmNvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0MktH0wmO0U4XVUAx/giphy.gif" />
        </p>
    </td>
   </tr>
   <tr>
-   <td  width="400em">
+   <td  width="350em">
      <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> &nbsp;Tools and languages</h2>
      <a href="https://www.python.org" target="_blank">
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">

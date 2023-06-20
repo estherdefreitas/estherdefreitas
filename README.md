@@ -92,8 +92,12 @@
     </td>
     <td width="55%">
       <h2>Projects</h2>
-      <img alt="github project tekotekoEBAC" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=estherdefreitas&repo=tekotekoEBAC&theme=midnight-purple"/>
-      <img alt="github project tekotekoEBAC" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=estherdefreitas&repo=wmc-html-css&theme=midnight-purple"/>
+      <a href="https://github.com/estherdefreitas/tekotekoEBAC" >
+        <img alt="github project tekotekoEBAC" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=estherdefreitas&repo=tekotekoEBAC&theme=midnight-purple"/>
+      </a>
+      <a href="https://github.com/estherdefreitas/wmc-html-css" >
+        <img alt="github project tekotekoEBAC" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=estherdefreitas&repo=wmc-html-css&theme=midnight-purple"/>
+      </a>
     </td>
   </tr>
 </table>

@@ -5,8 +5,8 @@
     <td width="45%">
        <h2> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me </h2>
        <ul>
-        <li>🎓 &nbsp; B.Sc of System Information at <a href="https://ifal.edu.br">IFAL</a></li>
-        <li>📚 &nbsp; I’m currently learning <b>ReactJS</b> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></li>
+        <li>🎓 &nbsp; Currently pursuing a B.Sc in System Information at <a href="https://ifal.edu.br">IFAL</a></li>
+        <li>📚 &nbsp; Learning <b>ReactJS</b> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></li>
         <li>💬 &nbsp; Ask me about anything, I love to answer! </li>
         <li>🤔 &nbsp; Interested in Web Development</li>
        </ul>

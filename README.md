@@ -17,7 +17,7 @@
     </td>
     <td width="45%">
       <p align="center">
-          <img align="left" height="360em" alt="Girl coding day and night" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhiNml4M240dG85cXdkOHM4aXVodGJuZDNubjhyOTU0Zm9wMmNvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0MktH0wmO0U4XVUAx/giphy.gif" />
+          <img align="left" height="300em" alt="Girl coding day and night" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhiNml4M240dG85cXdkOHM4aXVodGJuZDNubjhyOTU0Zm9wMmNvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0MktH0wmO0U4XVUAx/giphy.gif" />
        </p>
    </td>
   </tr>

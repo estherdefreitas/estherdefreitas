@@ -13,18 +13,18 @@ https://github.com/andreasbm/readme/blob/master/assets/line.png)](estherdefreita
        </ul>
        <p align="center">
          <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=estherdefreitas&layout=compact&langs_count=8&theme=radical"/>
+        <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=estherdefreitas&layout=compact&langs_count=8&theme=radical"/>
         </p>
     </td>
     <td>
       <p align="center">
-          <img align="left" height="360em" alt="Girl coding day and night" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhiNml4M240dG85cXdkOHM4aXVodGJuZDNubjhyOTU0Zm9wMmNvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0MktH0wmO0U4XVUAx/giphy.gif" />
+          <img align="left" height="250em" alt="Girl coding day and night" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhiNml4M240dG85cXdkOHM4aXVodGJuZDNubjhyOTU0Zm9wMmNvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0MktH0wmO0U4XVUAx/giphy.gif" />
        </p>
    </td>
   </tr>
   <tr>
    <td  width="400em">
-     <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  &nbsp;Tools and languages</h2>
+     <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> &nbsp;Tools and languages</h2>
      <a href="https://www.python.org" target="_blank">
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
      </a>
@@ -48,7 +48,7 @@ https://github.com/andreasbm/readme/blob/master/assets/line.png)](estherdefreita
        <img src="https://img.shields.io/badge/CSS-2965f1?&style=for-the-badge&logo=css3&logoColor=white" alt="css" />
      </a>
      <a href="" target="_blank">
-       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" />
+       <img src="https://img.shields.io/badge/C-B53471?style=for-the-badge&logo=c&logoColor=white" alt="c" />
      </a>
      <a href="" target="_blank">
        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
@@ -60,10 +60,10 @@ https://github.com/andreasbm/readme/blob/master/assets/line.png)](estherdefreita
        <img src="https://img.shields.io/badge/IntelliJ-05122A?style=for-the-badge&logo=intellijidea&logoColor=white" alt="intellij idea" />
      </a>
      <a href="" target="_blank">
-       <img src="https://img.shields.io/badge/MySql-05122A?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+       <img src="https://img.shields.io/badge/MySql-1B1464?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
      </a>
      <a href="" target="_blank">
-       <img src="https://img.shields.io/badge/SQLite-05122A?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
+       <img src="https://img.shields.io/badge/SQLite-5758BB?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
      </a>
    </td>
    <td>

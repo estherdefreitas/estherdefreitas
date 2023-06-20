@@ -1,9 +1,8 @@
-## ✨I'm Esther de Freitas✨
-[![-----------------------------------------------------](
-https://github.com/andreasbm/readme/blob/master/assets/line.png)](estherdefreitas.github.io)
-<table>
+<h1>✨I'm Esther de Freitas✨</h1>
+<div><img width="100%"src="https://github.com/andreasbm/readme/blob/master/assets/line.png"/></div>
+<table  width="100%">
   <tr>
-    <td>
+    <td width="55%">
        <h2> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me </h2>
        <ul>
         <li>🎓 &nbsp; B.Sc of System Information at <a href="https://ifal.edu.br">IFAL</a></li>
@@ -16,14 +15,14 @@ https://github.com/andreasbm/readme/blob/master/assets/line.png)](estherdefreita
         <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=estherdefreitas&layout=compact&langs_count=8&theme=radical"/>
         </p>
     </td>
-    <td>
+    <td width="45%">
       <p align="center">
           <img align="left" height="240em" alt="Girl coding day and night" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhiNml4M240dG85cXdkOHM4aXVodGJuZDNubjhyOTU0Zm9wMmNvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0MktH0wmO0U4XVUAx/giphy.gif" />
        </p>
    </td>
   </tr>
   <tr>
-   <td  width="350em">
+   <td  width="55%>
      <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> &nbsp;Tools and languages</h2>
      <a href="https://www.python.org" target="_blank">
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -66,7 +65,7 @@ https://github.com/andreasbm/readme/blob/master/assets/line.png)](estherdefreita
        <img src="https://img.shields.io/badge/SQLite-5758BB?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
      </a>
    </td>
-   <td>
+   <td width="45%">
     <div align="center">
       <h2><b>How to Reach Me</b></h2>
       <br>

@@ -2,7 +2,7 @@
 <div><img width="100%"src="https://github.com/andreasbm/readme/blob/master/assets/line.png"/></div>
 <table  width="100%">
   <tr>
-    <td width="55%">
+    <td width="45%">
        <h2> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me </h2>
        <ul>
         <li>🎓 &nbsp; B.Sc of System Information at <a href="https://ifal.edu.br">IFAL</a></li>
@@ -15,15 +15,15 @@
         <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=estherdefreitas&layout=compact&langs_count=8&theme=radical"/>
         </p>
     </td>
-    <td width="45%">
+    <td width="55%">
       <p align="center">
-          <img align="left" height="300em" alt="Girl coding day and night" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhiNml4M240dG85cXdkOHM4aXVodGJuZDNubjhyOTU0Zm9wMmNvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0MktH0wmO0U4XVUAx/giphy.gif" />
+          <img align="center" height="300em" alt="Girl coding day and night" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhiNml4M240dG85cXdkOHM4aXVodGJuZDNubjhyOTU0Zm9wMmNvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0MktH0wmO0U4XVUAx/giphy.gif" />
        </p>
    </td>
   </tr>
   <tr>
-   <td width="55%" >
-     <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> &nbsp;Tools and languages</h2>
+   <td width="50%" >
+     <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> &nbsp;Tools and languages</h2>
      <a href="https://www.python.org" target="_blank">
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
      </a>
@@ -65,9 +65,9 @@
        <img src="https://img.shields.io/badge/SQLite-5758BB?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
      </a>
    </td>
-   <td width="45%">
-    <div align="center">
-      <h2><b>How to Reach Me</b></h2>
+   <td width="55%">
+     <div align="center">
+      <h2><img width="78px" src="https://media4.giphy.com/media/daIfTnwGeY0J3zc1tg/giphy.gif?cid=ecf05e479n59cca2xbo1ujj8u7plbuc7a5c7368kp2qw2cal&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="balão de fala"><b>How to Reach Me</b></h2>
       <br>
       <p>Please don't hesitate to contact me 
         <br>if you need further information or help.
@@ -85,5 +85,15 @@
       <br>
     </div>
    </td>
+  </tr>
+  <tr>
+    <td width="45%">
+      <img align="center" height="300em" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdhdTA1NWhraHE5eG41aXRmczRlYWZmdmo0Z3M1cm94aDluOXoyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F73KLZL9eAfDcDQFAt/giphy.gif" alt="gatinho digitando"/>
+    </td>
+    <td width="55%">
+      <h2>Projects</h2>
+      <img alt="github project tekotekoEBAC" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=estherdefreitas&repo=tekotekoEBAC&theme=midnight-purple"/>
+      <img alt="github project tekotekoEBAC" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=estherdefreitas&repo=wmc-html-css&theme=midnight-purple"/>
+    </td>
   </tr>
 </table>

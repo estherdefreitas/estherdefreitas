@@ -92,11 +92,11 @@
     </td>
     <td width="55%">
       <h2>Projects</h2>
-      <a href="https://github.com/estherdefreitas/tekotekoEBAC" >
+      <a href="https://github.com/estherdefreitas/URL-shortener" >
         <img alt="Github project URL-Shortner" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=estherdefreitas&repo=URL-shortener&theme=midnight-purple"/>
       </a>
-      <a href="https://github.com/estherdefreitas/wmc-html-css" >
-        <img alt="github project tekotekoEBAC" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=estherdefreitas&repo=ChessTheGame&theme=midnight-purple"/>
+      <a href="https://github.com/estherdefreitas/ChessTheGame" >
+        <img alt="Github project ChessTheGame" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=estherdefreitas&repo=ChessTheGame&theme=midnight-purple"/>
       </a>
     </td>
   </tr>

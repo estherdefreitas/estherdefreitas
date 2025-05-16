@@ -76,10 +76,10 @@
       <br>
       <a href="https://www.instagram.com/estherdefreitas/" target="_blank">
       <img align="center" alt="Esther de Freitas | Instagram" width="30em" src="https://img.icons8.com/nolan/96/instagram-new.png" />
-      </a> &nbsp;&nbsp;
+      </a> 
       <a href="https://www.linkedin.com/in/estherdefreitas/" >
       <img align="center" alt="Esther de Freitas | LinkedIn" width="30em" src="https://img.icons8.com/nolan/96/linkedin.png" />
-      </a> &nbsp;&nbsp;
+      </a>
       <br>
     </div>
    </td>
